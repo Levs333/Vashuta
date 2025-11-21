@@ -1,0 +1,21 @@
+body{
+  font-family: sans-serif;
+  background-color:blue;
+  text-align: center;
+  font-size: 20px;
+}
+
+/*Зроби цей сайт красивим 😉*/
+
+header{
+    color: lightblue;
+    background-color:white ;
+    
+}
+footer{
+    background-color:lightblue ;
+}
+
+nav{
+    color:white;
+}
